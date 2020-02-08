@@ -6,7 +6,7 @@ https://www.tcpvpn.com/vpn-server-thailand
 2.SG-VPNSPLIT -> เหมาะสำหรับสาย YOUTUBE-ดูหนังออนไลน์ (บัญชี 30 วัน แนะนำให้รีบสมัครหลังเที่ยงคืน)
 https://vpnsplit.com
 
-3.SG-ZCOM -> เหมาะสำหรับสาย YOUTUBE-ดูหนังออนไลน์
+3.SG-ZCOM -> เหมาะสำหรับสาย YOUTUBE-ดูหนังออนไลน์ (บัญชี 5 วัน แนะนำให้รีบสมัครหลังเที่ยงคืน)
 https://nakzvpn.xyz/dashboard/servers/free/bronze/openvpn
 
 4.TH-OPENLANDSCAPE -> เหมาะสำหรับสาย GAMING เท่านั้น!!! (รองรับเดือนละ 15 USER)
