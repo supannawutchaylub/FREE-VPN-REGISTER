@@ -7,7 +7,7 @@ https://www.tcpvpn.com/vpn-server-thailand
 https://vpnsplit.com
 
 3.SG-ZCOM -> เหมาะสำหรับสาย YOUTUBE-ดูหนังออนไลน์
-https://nakzvpn.xyz/login
+https://nakzvpn.xyz/dashboard/servers/free/bronze/openvpn
 
 4.TH-OPENLANDSCAPE -> เหมาะสำหรับสาย GAMING เท่านั้น!!! (รองรับเดือนละ 15 USER)
 999999
