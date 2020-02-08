@@ -8,6 +8,10 @@ https://vpnsplit.com
 
 3.SG-ZCOM -> เหมาะสำหรับสาย YOUTUBE-ดูหนังออนไลน์ (บัญชี 7 วัน แนะนำให้รีบสมัครหลังเที่ยงคืน)
 https://nakzvpn.xyz/dashboard/servers/free/bronze/openvpn
+user สำหรับเข้าเว็บ
+user : pandavpn
+pass : 12345678
+ปล.user และ pass เป็นตัวพิมเล็กทั้งหมด
 
 4.TH-OPENLANDSCAPE -> เหมาะสำหรับสาย GAMING เท่านั้น!!! (รองรับ 15 USER / 5 วัน)
 http://203.150.243.176/panel/seller/panda
