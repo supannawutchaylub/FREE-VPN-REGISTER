@@ -9,11 +9,11 @@ https://vpnsplit.com
 3.SG-ZCOM -> เหมาะสำหรับสาย YOUTUBE-ดูหนังออนไลน์ (บัญชี 5 วัน แนะนำให้รีบสมัครหลังเที่ยงคืน)
 https://nakzvpn.xyz/dashboard/servers/free/bronze/openvpn
 
-4.TH-OPENLANDSCAPE -> เหมาะสำหรับสาย GAMING เท่านั้น!!! (รองรับ 15 USER / 7 วัน)
-999999
+4.TH-OPENLANDSCAPE -> เหมาะสำหรับสาย GAMING เท่านั้น!!! (รองรับ 15 USER / 5 วัน)
+http://203.150.243.176/panel/seller/panda
 
-5.TH-BANGMOD -> เหมาะสำหรับสาย GAMING เท่านั้น!!! (รองรับ 15 USER / 7 วัน)
-999999
+5.TH-BANGMOD -> เหมาะสำหรับสาย GAMING เท่านั้น!!! (รองรับ 15 USER / 5 วัน)
+http://203.150.243.176/panel/seller/panda
 
 ปล.วิธีสมัครบัญชีของทุกเว็บ สามารถดูได้ที่ YOUTUBE CHANEL ฝากกดติดตามไว้ด้วยนะครับ
 https://www.youtube.com/channel/UCOqe0N7y8QWbM5RjayljjHA
